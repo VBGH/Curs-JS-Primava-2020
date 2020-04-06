@@ -30,4 +30,3 @@ console.log(triunghi1.calculeazaPerimetru());
 const triunghiEchilateral = new TriunghiEchilalteral(3);
 
 console.log(triunghiEchilateral.calculeazaPerimetru())
-console.log(triunghiEchilateral.arie())
